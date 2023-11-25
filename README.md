@@ -1,6 +1,13 @@
 # NewsAPI
 Haber yönetim paneli **RESTful API**
 
+Kurulum
+Connection string değiştirildikten sonra projeyi çalıştırmanız yeterlidir. Otomatik migration çalışmaktadır.
+
+Admin kullanıcı bilgileri.
+k.adi : admin
+şifre : admin123
+
 Rol bazlı senaryo
 
 **Admin**

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UIA+85IMVorVhc3DjqoFHhe4mwm4C1fAbGZrpbBqTSp6i1ySAMSSsa332c1GQlTPK1ueTJz6kjNGJya/Zys9qw==",
+  "dgSpecHash": "OLZsFYSGLbGbT6+wM6rPTALNOizfAMjhZfC12PXITqkW9MBbr/X+H+LnUdb/2rmTKmPpTeDNmRBVHXKrJyuxqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\metot\\source\\repos\\TRNews\\TRNews.Entity\\TRNews.Entity.csproj",
+  "projectFilePath": "C:\\Users\\metot\\source\\repos\\NewsAPIGithub\\NewsAPI\\TRNews\\TRNews.Entity\\TRNews.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\metot\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.14\\microsoft.aspnetcore.cryptography.internal.7.0.14.nupkg.sha512",
     "C:\\Users\\metot\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.14\\microsoft.aspnetcore.cryptography.keyderivation.7.0.14.nupkg.sha512",

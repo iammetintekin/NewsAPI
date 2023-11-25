@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EuH/Hv918Pxub9psHo4I0VZEKyRQhrrM/2ku/HIXRLlsAaFtckyc5W/B4ZWZyQVXD61cHuz4kgcSc6+xGA9avg==",
+  "dgSpecHash": "pbk4iuV9ybPMKWyI3gvFlpbB6VErLtJVtCG4BFd5BJj9NvDgdkYxBdm4prP3SUCCvfbd2HPASCE0+/DqbfdQjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\metot\\source\\repos\\TRNews\\TRNews.Business\\TRNews.Business.csproj",
+  "projectFilePath": "C:\\Users\\metot\\source\\repos\\NewsAPIGithub\\NewsAPI\\TRNews\\TRNews.Business\\TRNews.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\metot\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\metot\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

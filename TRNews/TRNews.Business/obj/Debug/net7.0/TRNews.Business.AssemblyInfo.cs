@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TRNews.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc0909c130ba4c42d2ffd5214701542da0e5d1d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TRNews.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TRNews.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

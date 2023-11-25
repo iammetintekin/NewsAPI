@@ -59,4 +59,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.MigrateDB();
+
 app.Run();

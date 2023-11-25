@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SnkXS6m+bd6+cr/lt5bHm7GQ1IdA+AgIIVANaKWpG9bBHPWEFmJYGep52e7qKN6cxrqLa4wLQWf3+B8tog1Xzg==",
+  "dgSpecHash": "hXF24NjxlvKNA+kdhK+CYw/OGzIIONkY6hPb28nKkDvWNEb8x2uMIjgJ3kG21l3W/jYT6O4gv4c6V+2lZNFaMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\metot\\source\\repos\\TRNews\\TRNews.Infrastructure\\TRNews.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\metot\\source\\repos\\NewsAPIGithub\\NewsAPI\\TRNews\\TRNews.Infrastructure\\TRNews.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\metot\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\metot\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
