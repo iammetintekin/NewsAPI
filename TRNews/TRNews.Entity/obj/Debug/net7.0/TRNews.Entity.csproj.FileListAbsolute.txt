@@ -1,0 +1,12 @@
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\bin\Debug\net7.0\TRNews.Entity.deps.json
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\bin\Debug\net7.0\TRNews.Entity.dll
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\bin\Debug\net7.0\TRNews.Entity.pdb
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\obj\Debug\net7.0\TRNews.Entity.csproj.AssemblyReference.cache
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\obj\Debug\net7.0\TRNews.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\obj\Debug\net7.0\TRNews.Entity.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\obj\Debug\net7.0\TRNews.Entity.AssemblyInfo.cs
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\obj\Debug\net7.0\TRNews.Entity.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\obj\Debug\net7.0\TRNews.Entity.dll
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\obj\Debug\net7.0\refint\TRNews.Entity.dll
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\obj\Debug\net7.0\TRNews.Entity.pdb
+C:\Users\metot\source\repos\TRNews\TRNews.Entity\obj\Debug\net7.0\ref\TRNews.Entity.dll

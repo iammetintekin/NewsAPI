@@ -1,0 +1,290 @@
+2023-11-24 15:22:04.4428 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 15:22:04.4674 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 15:22:04.4674 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 15:22:04.4841 Info Configuration initialized.
+2023-11-24 16:34:40.6004 Info AppDomain Shutting down. LogFactory closing...
+2023-11-24 16:34:40.6164 Info LogFactory has been closed.
+2023-11-24 17:07:27.6232 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 17:07:27.6314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 17:07:27.6388 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 17:07:27.6388 Info Configuration initialized.
+2023-11-24 17:07:28.4510 Info AppDomain Shutting down. LogFactory closing...
+2023-11-24 17:07:28.4566 Info LogFactory has been closed.
+2023-11-24 17:07:33.6599 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 17:07:33.6599 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 17:07:33.6756 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 17:07:33.6756 Info Configuration initialized.
+2023-11-24 17:07:44.1754 Info AppDomain Shutting down. LogFactory closing...
+2023-11-24 17:07:44.1754 Info LogFactory has been closed.
+2023-11-24 17:10:50.3285 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 17:10:50.3285 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 17:10:50.3285 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 17:10:50.3488 Info Configuration initialized.
+2023-11-24 17:10:51.0867 Info AppDomain Shutting down. LogFactory closing...
+2023-11-24 17:10:51.0867 Info LogFactory has been closed.
+2023-11-24 17:10:56.4803 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 17:10:56.4883 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 17:10:56.4883 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 17:10:56.5022 Info Configuration initialized.
+2023-11-24 17:10:57.8768 Info AppDomain Shutting down. LogFactory closing...
+2023-11-24 17:10:57.8768 Info LogFactory has been closed.
+2023-11-24 18:12:41.1682 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:12:41.1775 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:12:41.1775 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:12:41.1946 Info Configuration initialized.
+2023-11-24 18:13:58.1090 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:13:58.1090 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:13:58.1279 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:13:58.1389 Info Configuration initialized.
+2023-11-24 18:20:33.2616 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:20:33.2702 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:20:33.2702 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:20:33.2876 Info Configuration initialized.
+2023-11-24 18:21:13.1336 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:21:13.3720 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:21:13.3804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:21:13.3928 Info Configuration initialized.
+2023-11-24 18:23:20.8162 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:23:20.8359 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:23:20.8440 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:23:20.8440 Info Configuration initialized.
+2023-11-24 18:26:30.1289 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:26:30.1497 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:26:30.1575 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:26:30.1710 Info Configuration initialized.
+2023-11-24 18:27:56.4180 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:27:56.4252 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:27:56.4252 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:27:56.4416 Info Configuration initialized.
+2023-11-24 18:30:10.9546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:30:10.9546 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:30:10.9698 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:30:10.9698 Info Configuration initialized.
+2023-11-24 18:31:41.3604 Info AppDomain Shutting down. LogFactory closing...
+2023-11-24 18:31:41.3604 Info LogFactory has been closed.
+2023-11-24 18:32:46.7244 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:32:46.7476 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:32:46.7586 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:32:46.7713 Info Configuration initialized.
+2023-11-24 18:33:39.6099 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:33:39.6308 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:33:39.6402 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:33:39.6402 Info Configuration initialized.
+2023-11-24 18:39:42.0095 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 18:39:42.0170 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 18:39:42.0170 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 18:39:42.0325 Info Configuration initialized.
+2023-11-24 19:34:34.9572 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 19:34:34.9671 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 19:34:34.9671 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 19:34:34.9878 Info Configuration initialized.
+2023-11-24 20:53:45.7653 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 20:53:45.7856 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 20:53:45.7856 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 20:53:45.8013 Info Configuration initialized.
+2023-11-24 20:57:20.7730 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 20:57:20.7968 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 20:57:20.7968 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 20:57:20.8153 Info Configuration initialized.
+2023-11-24 20:58:15.7569 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 20:58:15.8528 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 20:58:15.8805 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 20:58:15.8990 Info Configuration initialized.
+2023-11-24 21:31:40.5611 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 21:31:40.5905 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 21:31:40.6059 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 21:31:40.6225 Info Configuration initialized.
+2023-11-24 21:45:52.1610 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 21:45:52.1849 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 21:45:52.1933 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 21:45:52.2062 Info Configuration initialized.
+2023-11-24 21:47:39.2902 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 21:47:39.3368 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 21:47:39.3474 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 21:47:39.3608 Info Configuration initialized.
+2023-11-24 21:55:38.5700 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 21:55:38.5788 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 21:55:38.5788 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 21:55:38.5945 Info Configuration initialized.
+2023-11-24 21:56:08.0989 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 21:56:08.0989 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 21:56:08.1156 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 21:56:08.1239 Info Configuration initialized.
+2023-11-24 22:01:09.1137 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:01:09.1266 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:01:09.1266 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:01:09.1522 Info Configuration initialized.
+2023-11-24 22:03:11.4438 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:03:11.4438 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:03:11.4579 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:03:11.4579 Info Configuration initialized.
+2023-11-24 22:09:30.6384 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:09:30.6459 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:09:30.6459 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:09:30.6612 Info Configuration initialized.
+2023-11-24 22:14:58.9834 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:14:58.9834 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:14:58.9986 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:14:58.9986 Info Configuration initialized.
+2023-11-24 22:15:14.6213 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:15:14.6310 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:15:14.6310 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:15:14.6475 Info Configuration initialized.
+2023-11-24 22:26:08.3472 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:26:08.3665 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:26:08.3757 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:26:08.3888 Info Configuration initialized.
+2023-11-24 22:28:57.6397 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:28:57.6588 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:28:57.6588 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:28:57.6748 Info Configuration initialized.
+2023-11-24 22:32:58.6940 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:32:58.7174 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:32:58.7174 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:32:58.7375 Info Configuration initialized.
+2023-11-24 22:33:59.9158 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:33:59.9355 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:33:59.9445 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:33:59.9549 Info Configuration initialized.
+2023-11-24 22:45:25.4718 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:45:25.5313 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:45:25.5313 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:45:25.5313 Info Configuration initialized.
+2023-11-24 22:52:27.6408 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:52:27.6610 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:52:27.6610 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:52:27.6796 Info Configuration initialized.
+2023-11-24 22:54:38.8888 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:54:38.8977 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:54:38.9075 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:54:38.9075 Info Configuration initialized.
+2023-11-24 22:55:08.1664 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:55:08.1801 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:55:08.1923 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:55:08.2032 Info Configuration initialized.
+2023-11-24 22:56:15.3514 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 22:56:15.3593 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 22:56:15.3593 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 22:56:15.3593 Info Configuration initialized.
+2023-11-24 23:08:26.0592 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:08:26.0677 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:08:26.0677 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:08:26.0842 Info Configuration initialized.
+2023-11-24 23:09:45.6413 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:09:45.7253 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:09:45.7445 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:09:45.7754 Info Configuration initialized.
+2023-11-24 23:12:36.6403 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:12:36.6657 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:12:36.6754 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:12:36.6879 Info Configuration initialized.
+2023-11-24 23:14:36.5383 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:14:36.5457 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:14:36.5457 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:14:36.5457 Info Configuration initialized.
+2023-11-24 23:30:11.4988 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:30:11.5132 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:30:11.5252 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:30:11.5359 Info Configuration initialized.
+2023-11-24 23:30:46.9472 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:30:46.9690 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:30:46.9690 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:30:46.9849 Info Configuration initialized.
+2023-11-24 23:33:47.7952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:33:47.8076 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:33:47.8206 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:33:47.8309 Info Configuration initialized.
+2023-11-24 23:35:02.6650 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:35:02.6866 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:35:02.6959 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:35:02.6959 Info Configuration initialized.
+2023-11-24 23:36:28.7678 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:36:28.7756 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:36:28.7840 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:36:28.7840 Info Configuration initialized.
+2023-11-24 23:39:28.4215 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:39:28.4307 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-24 23:39:28.4307 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-24 23:39:28.4473 Info Configuration initialized.
+2023-11-25 00:12:08.3835 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:12:08.3835 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:12:08.3994 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:12:08.4070 Info Configuration initialized.
+2023-11-25 00:15:58.4230 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:15:58.4324 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:15:58.4414 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:15:58.4414 Info Configuration initialized.
+2023-11-25 00:16:51.8166 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:16:51.8166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:16:51.8166 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:16:51.8407 Info Configuration initialized.
+2023-11-25 00:17:52.3616 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:17:52.3705 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:17:52.3795 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:17:52.3795 Info Configuration initialized.
+2023-11-25 00:18:25.1580 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:18:25.1897 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:18:25.2223 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:18:25.2396 Info Configuration initialized.
+2023-11-25 00:19:35.1868 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:19:35.1868 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:19:35.1868 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:19:35.2098 Info Configuration initialized.
+2023-11-25 00:21:43.7584 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:21:43.7673 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:21:43.7673 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:21:43.7847 Info Configuration initialized.
+2023-11-25 00:31:50.7649 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:31:50.7924 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:31:50.8051 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:31:50.8156 Info Configuration initialized.
+2023-11-25 00:40:10.8912 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:40:10.8912 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:40:10.9082 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:40:10.9082 Info Configuration initialized.
+2023-11-25 00:41:43.4318 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:41:43.4390 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:41:43.4390 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:41:43.4533 Info Configuration initialized.
+2023-11-25 00:44:13.8590 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:44:13.8590 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:44:13.8750 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:44:13.8750 Info Configuration initialized.
+2023-11-25 00:45:04.0702 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:45:04.0773 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:45:04.0773 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:45:04.0773 Info Configuration initialized.
+2023-11-25 00:59:07.9087 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:59:07.9087 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:59:07.9230 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:59:07.9230 Info Configuration initialized.
+2023-11-25 00:59:55.3764 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 00:59:55.3845 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 00:59:55.3845 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 00:59:55.3987 Info Configuration initialized.
+2023-11-25 01:00:43.5108 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 01:00:43.5179 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 01:00:43.5179 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 01:00:43.5322 Info Configuration initialized.
+2023-11-25 01:25:16.6566 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 01:25:16.6566 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 01:25:16.6744 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 01:25:16.6744 Info Configuration initialized.
+2023-11-25 01:26:35.8077 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 01:26:35.8159 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 01:26:35.8159 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 01:26:35.8335 Info Configuration initialized.
+2023-11-25 01:37:49.8075 Info AppDomain Shutting down. LogFactory closing...
+2023-11-25 01:37:49.8184 Info LogFactory has been closed.
+2023-11-25 01:55:48.4452 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 01:55:48.4582 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 01:55:48.4696 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 01:55:48.4696 Info Configuration initialized.
+2023-11-25 02:04:50.9850 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 02:04:50.9850 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 02:04:51.0004 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 02:04:51.0004 Info Configuration initialized.
+2023-11-25 12:26:07.2703 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 12:26:07.3180 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.5.2160. Product version: 5.2.5+7c014325443d65541200b698a50b9dd4ec30c7f0. GlobalAssemblyCache: False
+2023-11-25 12:26:07.3269 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\metot\source\repos\TRNews\TRNews\nlog.config
+2023-11-25 12:26:07.3269 Info Configuration initialized.

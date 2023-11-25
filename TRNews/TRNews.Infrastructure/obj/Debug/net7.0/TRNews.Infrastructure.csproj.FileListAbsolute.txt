@@ -1,0 +1,15 @@
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\bin\Debug\net7.0\TRNews.Infrastructure.deps.json
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\bin\Debug\net7.0\TRNews.Infrastructure.dll
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\bin\Debug\net7.0\TRNews.Infrastructure.pdb
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\bin\Debug\net7.0\TRNews.Entity.dll
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\bin\Debug\net7.0\TRNews.Entity.pdb
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\TRNews.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\TRNews.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\TRNews.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\TRNews.Infrastructure.AssemblyInfo.cs
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\TRNews.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\TRNews.Infrastructure.csproj.CopyComplete
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\TRNews.Infrastructure.dll
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\refint\TRNews.Infrastructure.dll
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\TRNews.Infrastructure.pdb
+C:\Users\metot\source\repos\TRNews\TRNews.Infrastructure\obj\Debug\net7.0\ref\TRNews.Infrastructure.dll
